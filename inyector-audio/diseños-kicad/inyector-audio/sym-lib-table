@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name inyector-audio-rescue)(type Legacy)(uri ${KIPRJMOD}/inyector-audio-rescue.lib)(options "")(descr ""))
+)
