@@ -83,19 +83,6 @@ X 3 3 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Mis_Simbolos_Taladro_sujeccion_3mm
-#
-DEF Mis_Simbolos_Taladro_sujeccion_3mm TS 0 40 Y Y 1 F N
-F0 "TS" 150 0 50 H V C CNN
-F1 "Mis_Simbolos_Taladro_sujeccion_3mm" 0 150 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-DRAW
-C 0 0 71 0 1 0 N
-X 1 1 0 -150 100 U 50 50 1 1 N
-ENDDRAW
-ENDDEF
-#
 # inyector-audio-rescue_NE555-Timer
 #
 DEF inyector-audio-rescue_NE555-Timer U 0 20 Y Y 1 F N
