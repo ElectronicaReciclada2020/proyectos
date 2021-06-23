@@ -1,0 +1,1 @@
+*En la version V2.0 de la fuente de alimentación se realiza el diseño de la pcb para poder realizarla manualmente en casa con un rotulador, los taladros con una CNC 2018, y el atacado con cloruro férrico.
